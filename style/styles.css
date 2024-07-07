@@ -10,6 +10,10 @@
 /*shared style*/
 .text-prymary{
     color: #FD6E0A;
+
+}
+.secondary-bg{
+    background: color #fff8f3; ;
 }
 .dark-2{
     color:#474747 ;
@@ -19,6 +23,15 @@
     background-image: url(../images/developer.png),url(../images/header_bg.png);
     background-repeat: no-repeat;
 background-position: top left,bottom right;
+}
+.section-titel{
+    font-size: 35px;
+    font-weight: bold;
+    color:#181818;
+}
+.section-description{
+    font-size: 18px;
+    color: #757575;
 }
 /*nav styles*/
 nav{
