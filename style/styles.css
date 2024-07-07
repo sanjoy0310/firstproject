@@ -13,7 +13,7 @@
 
 }
 .secondary-bg{
-    background: color #fff8f3; ;
+    background-color: #FFF8F3; 
 }
 .dark-2{
     color:#474747 ;
@@ -88,4 +88,17 @@ width: 580px;
 }
 .banner-content{
     max-width: 580px;
+}
+/*about*/
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+
+}
+/*main style*/
+.main{
+    max-width:1140px ;
+    margin: o auto;
 }
