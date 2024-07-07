@@ -100,5 +100,14 @@ width: 580px;
 /*main style*/
 .main{
     max-width:1140px ;
-    margin: o auto;
+    margin: 0 auto;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.item-description{
+    font-weight: 600;
 }
