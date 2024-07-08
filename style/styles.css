@@ -45,7 +45,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 50px 200px;
+    margin: 0px 200px;
 
 }
 .nav-title{
@@ -117,6 +117,7 @@ width: 580px;
 }
 .item-description{
     font-weight: 600;
+   
 }
 /*skills*/
 .skills-container{
@@ -127,4 +128,39 @@ width: 580px;
     padding:30px ;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
     border-radius: 5px;
+}
+.skill-description{
+    text-align: center;
+}
+.resume-container{
+    display: flex;
+    gap:24px
+}
+.experience-description{
+    color: rgba(117, 117, 117, 1);
+}
+.experience-sub-title{
+   color:  rgba(117, 117, 117, 1);
+   font-size: 20px;
+   margin-bottom: 0px;
+}
+.experience-title{
+    font-size: 25px;
+    font-weight: 20px ;
+}
+.resume-column-title {
+font-size: 30px;
+color: rgba(71, 71, 71, 1);
+}
+.resum-title{
+    font-size: 35px;
+    color: rgba(24, 24, 24, 1);
+    text-align: center;
+}
+.resum hr{
+    margin: 30px 5px;
+
+}
+.resume-download-cv{
+    margin-top: 100px;
 }
